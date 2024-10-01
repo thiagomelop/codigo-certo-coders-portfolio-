@@ -142,7 +142,7 @@
   border-radius: .5em;
   cursor: pointer;
   margin: 1em 0;
-
+  box-shadow: 5px 5px 50px 1px #000000;
 }
 
 
@@ -191,6 +191,7 @@
   opacity: 1;
   transition: 2s ease;
   border-radius: .5em;
+  box-shadow: 10px 10px 50px 1px #000000;
 }
 
 
