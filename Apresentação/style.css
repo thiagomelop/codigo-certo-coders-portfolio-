@@ -233,3 +233,36 @@
   border-radius: 10px;
   transition: transform 3s ease;
 }
+
+
+
+
+/* RODAPÉ */
+
+.rodape {
+  height: 5em;
+  border-top: 1px solid #000000;
+  background-color: #ffffff;
+}
+.rodape-contatos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.rodape-img {
+  width: 25px;
+  margin: 1em 0;
+}
+
+.rodape-img:child(1){
+  margin-right: 1em;
+}
+
+.rodape-direitos {
+  text-align: center;
+  font-size: .8em;
+  margin: 1em 0;
+  padding-bottom: 1.5em;
+  /* background-color: #e53939; */
+}
